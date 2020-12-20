@@ -1,12 +1,12 @@
 ---
 layout: template
 title: Portfolio Abhinab
-name: Abhinab
+heading: Abhinab
 ---
 
 # {{ page.title }}
 
-My name is {{ page.name }} . I am a Lead Technical Writer, and I was born in **Kolkata**. A few months after my birth, my family moved to **Hyderabad**, where I went to school and college. I graduated in Mechanical Engineeering from Acharya Institute of Technology, I then went on to do Aircraft Maintenance Engineering.
+My name is {{ page.heading }}. I am a Lead Technical Writer, and I was born in **Kolkata**. A few months after my birth, my family moved to **Hyderabad**, where I went to school and college. I graduated in Mechanical Engineeering from Acharya Institute of Technology, I then went on to do Aircraft Maintenance Engineering.
 # What do I do?
 My professional areas of interest include technical writing, researching new technologies and learning new tools.
 At my current company, I am responsible for the entire documentation process, preparation of templates, guides, release notes, cheat sheets and FAQ's.
