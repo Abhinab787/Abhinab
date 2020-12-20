@@ -1,6 +1,6 @@
 ---
 layout: template
-title:Portfolio Abhinab
+title: Portfolio Abhinab
 ---
 
 # {{ page.title }}
