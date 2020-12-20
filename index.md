@@ -3,7 +3,8 @@ layout: template
 title:Portfolio Abhinab
 ---
 
-# {{ page title }}
+# {{ page.title }}
+
 My name is Abhinab. I am a Lead Technical Writer, and I was born in **Kolkata**. A few months after my birth, my family moved to **Hyderabad**, where I went to school and college. I graduated in Mechanical Engineeering from Acharya Institute of Technology, I then went on to do Aircraft Maintenance Engineering.
 # What do I do?
 My professional areas of interest include technical writing, researching new technologies and learning new tools.
